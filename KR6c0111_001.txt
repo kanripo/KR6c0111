@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:44.678868
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:46
 #+TITLE: 金剛般若經挾註
 #+PROPERTY: CBETA_ID T85n2739
 #+PROPERTY: ID KR6c0111
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2739
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0111_T_000-0132c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0111_T_001-0132c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2739[cf.No.235]¶
-
- 金剛般若經挾註¶
+No. 2739 [cf. No. 235]¶
+金剛般若經挾註¶
 ¶
 
 見諸相非相。即見如來(如來法空)□□□□□□¶
@@ -386,9 +385,9 @@ No.2739[cf.No.235]¶
 #+BEGIN_VERSE
 「　若以色見我
 　以音聲求我
-　是人行邪道
+　是人行邪道」
 #+END_VERSE
-」¶
+¶
 
 不能見如來(無色見色。不可以色見。非聲應聲。不可以聲求。將令深趣涅槃。必依聲色之外¶
 故。以色聲求佛。是人甚好住烏。得見如來也)須菩提。汝若作是念。如來¶
